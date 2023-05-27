@@ -6,4 +6,6 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ---
 
+<img align="left" alt="error" width="30px" style="padding-right:10px" src="https://cdn.discordapp.com/avatars/445663972595859476/b0684b96b45febea413cbd7b1aabad9a.png?size=1024"/>
+
 (Skript/FTP/LINUX/PS/SQL/WS)
