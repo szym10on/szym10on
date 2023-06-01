@@ -6,6 +6,6 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ---
 
-Knowledge
+Knowledge, skill and experience
 
 (Skript/FTP/LINUX/PS/SQL/WS)
