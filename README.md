@@ -12,4 +12,11 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 **`It's never enough. Constant learning and willingness to learn is important.`**
 
-(Skript/FTP/LINUX/PS/SQL/WS)
+* ✨ School and education
+ dwadrgegwjhfuyhjyuWEHJYUEhjyuef
+
+* Certificates
+adkiawudjkauidjauidjawdyuuwuad
+
+* Skills
+danmwudhawnjyudahjdyuawjduia
