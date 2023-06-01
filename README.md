@@ -13,10 +13,22 @@ I am passionate about information security since 2019 and enjoy developing solut
 **`It's never enough. Constant learning and willingness to learn is important.`**
 
 🎓 School and education
- dwadrgegwjhfuyhjyuWEHJYUEhjyuef
+
+(2019 - 2023) Vocational school with a specialization in IT
+(2023 - ...) Currently pursuing university studies in Cybersecurity Management
 
 📜 Certificates
-adkiawudjkauidjauidjawdyuuwuad
+
+* EE.08 (Installation and exploitation of computer systems, peripherals and networks)
+Issuing Institution: OKE Warsaw
+Date of Certification: June 2022
+
+* INF.02 (Administration and exploitation of computer systems, peripheral devices and local computer networks)
+Issuing Institution: OKE Warsaw
+Date of Certification: January 2023
+
+* Google Cybersecurity Specialization
+Issuing Institution: Google
+Date of Certification: June 2023
 
 🧠 Skills
-danmwudhawnjyudahjdyuawjduia
