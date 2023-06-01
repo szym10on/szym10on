@@ -6,6 +6,6 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ---
 
-<img align="left" alt="error" width="30px" style="padding-right:10px" src=""/>
+Knowledge
 
 (Skript/FTP/LINUX/PS/SQL/WS)
