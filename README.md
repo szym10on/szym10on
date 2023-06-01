@@ -12,7 +12,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 **`It's never enough. Constant learning and willingness to learn is important.`**
 
-🎓 School and education</n>
+🎓 School and education
 
 (2019 - 2023) Vocational school with a specialization in IT
 (2023 - ...) Currently pursuing university studies in Cybersecurity Management
