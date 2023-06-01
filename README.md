@@ -6,6 +6,8 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ---
 
-Knowledge, skill and experience
+## Knowledge, skill and experience
+
+**`It's never enough. Constant learning and willingness to learn is important.`**
 
 (Skript/FTP/LINUX/PS/SQL/WS)
