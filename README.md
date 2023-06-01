@@ -14,8 +14,13 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 🎓 School and education
 
-(2019 - 2023) Vocational school with a specialization in IT<br>
-(2023 - ...) Currently pursuing university studies in Cybersecurity Management
+* Vocational school<br>
+Time period: 2019 - 2023<br>
+Specialization: IT Specialist
+
+* University studies<br>
+Time period: Currently pursuing since October 2023<br>
+Specialization: Cybersecurity Management
 
 📜 Certificates
 
