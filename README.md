@@ -12,11 +12,11 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 **`It's never enough. Constant learning and willingness to learn is important.`**
 
-* ✨ School and education
+🎓 School and education
  dwadrgegwjhfuyhjyuWEHJYUEhjyuef
 
-* Certificates
+📜 Certificates
 adkiawudjkauidjauidjawdyuuwuad
 
-* Skills
+🧠 Skills
 danmwudhawnjyudahjdyuawjduia
