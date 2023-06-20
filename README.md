@@ -37,5 +37,3 @@ Issuing Institution: Google<br>
 Date of Certification: June 2023
 
 🧠 Skills splunk/sql/linux/skript/python/photoshop/windows
-
-s
