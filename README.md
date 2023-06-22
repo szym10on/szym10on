@@ -42,4 +42,4 @@ security frameworks and controls
 security hardening
 siem tools
 
-![Untitled](https://github.com/szym10on/szym10on/assets/123908381/f713ae6e-38ff-4b02-a76a-3cec5a5cec01)
+<img size=20px>![Untitled](https://github.com/szym10on/szym10on/assets/123908381/f713ae6e-38ff-4b02-a76a-3cec5a5cec01)</img>
