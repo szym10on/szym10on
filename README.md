@@ -16,7 +16,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 * Vocational school<br>
 Time period: 2019 - 2023<br>
-Specialization: IT Specialist
+Specialization: IT Technician
 
 * University studies<br>
 Time period: Currently pursuing since October 2023<br>
