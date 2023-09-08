@@ -47,7 +47,11 @@ Date of Certification: January 2023
 Issuing Institution: Google<br>
 Date of Certification: June 2023
 
-🧠 Skills splunk/sql/linux/skript/python/photoshop/windows/threats, risk and vulnerabilities
+🧠 Skills
+
+![7](https://github.com/szym10on/owning-a-server/assets/123908381/4c8b7259-cd01-4824-b280-73ad6717ad47)
+<br>
+<br>splunk/sql/linux/skript/python/photoshop/windows/threats, risk and vulnerabilities
 incident response
 security frameworks and controls
 security hardening
