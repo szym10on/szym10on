@@ -13,8 +13,9 @@ I am passionate about information security since 2019 and enjoy developing solut
 **`Things that I'm the most proud of.`**
 
 * [owning-a-server](https://github.com/szym10on/owning-a-server)<br>
-
-  My main project that descibes how I built, configured, managed and secured server with over 200.000 registered accounts for over than 2 years
+  My main project that I was working on for more than 2 years.<br>
+  It descibes how I built, configured, managed and secured my phisical server.<br>
+  I managed to reach more than 200.000 registered people.
 
 ---
 
