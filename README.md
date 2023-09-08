@@ -47,12 +47,29 @@ Date of Certification: January 2023
 Issuing Institution: Google<br>
 Date of Certification: June 2023
 
-🧠 Skills
+🧠 Some of my skills and software I use
+
+* List of _some_ software applications I am able to use:<br>
+Splunk SIEM tool<br>
+Wireshark packet analyzer<br>
+Chronicle Google's SIEM tool<br>
+Aircrack-ng network tester<br>
+OpenVAS vulnerability scanning and management tool<br>
+Adobe Photoshop graphic editing tool<br>
+MySQL database management tool
+
+* More of _some_ of my knowledge:<br>
+Windows Operating System<br>
+Linux Operating System<br>
+Ubuntu Server<br>
+Skript .sk Language
+
+* Some of the things that I know about in security:<br>
+Cyber threat landscape (Staying up-to-date)<br>
+All security fundamentals (Systems, threats, vulnerabilities, etc.)<br>
+Risk Assessment (Conducting risk assessments)<br>
+Networking Protocols (Common network protocols)<br>
+Network Security (Firewalls, VPNs, monitoring, detection, etc.)<br>
+System hardening (Securing a system)<br>
 
 ![7](https://github.com/szym10on/owning-a-server/assets/123908381/4c8b7259-cd01-4824-b280-73ad6717ad47)
-<br>
-<br>splunk/sql/linux/skript/python/photoshop/windows/threats, risk and vulnerabilities
-incident response
-security frameworks and controls
-security hardening
-siem tool
