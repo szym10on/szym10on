@@ -17,7 +17,7 @@ I am passionate about information security since 2019 and enjoy developing solut
   It descibes how I built, configured, managed and secured my physical server.<br>
   I managed to reach more than 200.000 registered people.
 
----
+![8](https://github.com/szym10on/szym10on/assets/123908381/d8e256a2-20d9-4464-b168-be7f96d3281e)
 
 ## ☄️ School and certifications
 
@@ -46,6 +46,8 @@ Date of Certification: January 2023
 * Google Cybersecurity Specialization<br>
 Issuing Institution: Google<br>
 Date of Certification: June 2023
+
+![8](https://github.com/szym10on/szym10on/assets/123908381/d8e256a2-20d9-4464-b168-be7f96d3281e)
 
 ## ☄️ Knowledge and skills
 
