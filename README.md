@@ -1,6 +1,6 @@
 # 🌌 szym10on
 
-## About me
+## About me ☄️
 
 **`Digital Enthusiast (Cybersecurity/IT Specialist)`**
 
@@ -8,7 +8,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ---
 
-## Projects
+## Projects ☄️
 
 **`Things that I'm the most proud of`**
 
@@ -19,7 +19,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ---
 
-## School and certifications
+## School and certifications ☄️
 
 **`My education timeline with my certifications that I own`**
 
@@ -47,7 +47,7 @@ Date of Certification: January 2023
 Issuing Institution: Google<br>
 Date of Certification: June 2023
 
-## Knowledge and skills
+## Knowledge and skills ☄️
 
 **`My knowledge and skills that I developed over the years`**
 
