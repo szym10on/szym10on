@@ -19,7 +19,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ---
 
-## Knowledge and skills
+## School and certifications
 
 **`My education timeline with my certifications that I own`**
 
@@ -47,6 +47,10 @@ Date of Certification: January 2023
 Issuing Institution: Google<br>
 Date of Certification: June 2023
 
+## Knowledge and skills
+
+**`My knowledge and skills that I developed over the years`**
+
 🧠 Some of my skills and software I use
 
 * List of _some_ software applications I am able to use:<br>
@@ -64,7 +68,7 @@ Linux Operating System<br>
 Ubuntu Server<br>
 Skript .sk Language
 
-* Some of the things that I know about in security:<br>
+* _Some_ of the things that I know about in security:<br>
 Cyber threat landscape (Staying up-to-date)<br>
 All security fundamentals (Systems, threats, vulnerabilities, etc.)<br>
 Risk Assessment (Conducting risk assessments)<br>
