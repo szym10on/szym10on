@@ -1,7 +1,5 @@
 # 🌌 szym10on
 
-![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
-
 ## ☄️ About me
 
 **`Digital Enthusiast (Cybersecurity/IT Specialist)`**
