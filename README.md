@@ -14,7 +14,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 * [owning-a-server](https://github.com/szym10on/owning-a-server)<br>
   My main project that I was working on for more than 2 years.<br>
-  It descibes how I built, configured, managed and secured my phisical server.<br>
+  It descibes how I built, configured, managed and secured my physical server.<br>
   I managed to reach more than 200.000 registered people.
 
 ---
