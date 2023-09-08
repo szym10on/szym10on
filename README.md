@@ -76,4 +76,4 @@ Networking Protocols (Common network protocols)<br>
 Network Security (Firewalls, VPNs, monitoring, detection, etc.)<br>
 System hardening (Securing a system)<br>
 
-![7](https://github.com/szym10on/szym10on/assets/123908381/6d628749-78c6-4372-99be-95eecccb0856)
+![7](https://github.com/szym10on/szym10on/assets/123908381/fbed8620-1c3a-42d4-89e5-c1ec63e5620d)
