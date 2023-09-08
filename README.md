@@ -1,12 +1,14 @@
 # 🌌 szym10on
 
+![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
+
 ## ☄️ About me
 
 **`Digital Enthusiast (Cybersecurity/IT Specialist)`**
 
 I am passionate about information security since 2019 and enjoy developing solutions that can positivly impact an organization and the people it serves. I am proud of my analytical mindset that allows me to think critically and analyze complex problems. I have highly developed problem-solving skills that over the years improved and are still improving. The most important aspect of my jurney is that I love learning that is the most important thing in the digital world. Personally I think that I am perfect for new challenges, learning new skills and adapt to new possibilities.
 
-![8](https://github.com/szym10on/szym10on/assets/123908381/d8e256a2-20d9-4464-b168-be7f96d3281e)
+![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
 
 ## ☄️ Projects
 
@@ -17,7 +19,7 @@ I am passionate about information security since 2019 and enjoy developing solut
   It descibes how I built, configured, managed and secured my physical server.<br>
   I managed to reach more than 200.000 registered people.
 
-![8](https://github.com/szym10on/szym10on/assets/123908381/d8e256a2-20d9-4464-b168-be7f96d3281e)
+![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
 
 ## ☄️ School and certifications
 
@@ -47,7 +49,7 @@ Date of Certification: January 2023
 Issuing Institution: Google<br>
 Date of Certification: June 2023
 
-![8](https://github.com/szym10on/szym10on/assets/123908381/d8e256a2-20d9-4464-b168-be7f96d3281e)
+![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
 
 ## ☄️ Knowledge and skills
 
