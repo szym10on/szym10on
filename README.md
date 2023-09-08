@@ -12,7 +12,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 **`Things that I'm the most proud of.`**
 
-[How I built, configured, managed and secured server with over 200.000 registered accounts for over than 2 years](https://github.com/username/project](https://github.com/szym10on/owning-a-server)
+[How I built, configured, managed and secured server with over 200.000 registered accounts for over than 2 years](https://github.com/szym10on/owning-a-server)
 
 ---
 
