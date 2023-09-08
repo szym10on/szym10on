@@ -1,4 +1,4 @@
-# 🚀 szym10on
+### 🚀 szym10on
 
 ## 🌌 About me
 
