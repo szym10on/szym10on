@@ -10,7 +10,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ## Projects
 
-**`Things that I'm the most proud of.`**
+**`Things that I'm the most proud of`**
 
 * [owning-a-server](https://github.com/szym10on/owning-a-server)<br>
   My main project that I was working on for more than 2 years.<br>
@@ -21,7 +21,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 
 ## Knowledge and skills
 
-**`It's never enough. Constant learning and willingness to learn is important.`**
+**`My education timeline with my certifications that I own`**
 
 🎓 School and education
 
