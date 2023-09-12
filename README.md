@@ -17,6 +17,11 @@ I am passionate about information security since 2019 and enjoy developing solut
   It descibes how I built, configured, managed and secured my physical server.<br>
   I managed to reach more than 200.000 registered people.
 
+* [network-at-home](https://github.com/szym10on/network-at-home)<br>
+  Project that I had done in my house.<br>
+  It describes how I planned, built and connected home network myself.<br>
+  It inclueds ethernet cables distribution, making sockets and plugs, and planning router and hub places.<br>
+
 ![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
 
 ## 🌌 School and certifications
