@@ -22,6 +22,11 @@ I am passionate about information security since 2019 and enjoy developing solut
   It describes how I planned, built and connected home network myself.<br>
   It inclueds ethernet cables distribution, making sockets and plugs, and planning router and hub places.<br>
 
+* [security-scripts](https://github.com/szym10on/security-scripts)<br>
+  Security scripts for a Minecraft servers.<br>
+  All scripts described in a README file.<br>
+  Everything in repository is written by me.<br>
+
 ![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
 
 ## 🌌 School and certifications
