@@ -83,7 +83,7 @@ Skript .sk Language
 * _Some_ of the things that I know about in security:<br>
 Cyber threat landscape (Staying up-to-date)<br>
 All security fundamentals (Systems, threats, vulnerabilities, etc.)<br>
-Risk Assessment (Conducting risk assessments)<br>
+Risk Assessment (Conducting risk assessments)<br>s
 Networking Protocols (Common network protocols)<br>
 Network Security (Firewalls, VPNs, monitoring, detection, etc.)<br>
 System hardening (Securing a system)<br>
