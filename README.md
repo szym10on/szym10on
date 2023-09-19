@@ -14,17 +14,17 @@ The intricacies of cybersecurity fascinate me, from unraveling complex vulnerabi
 
 **`Things that I have done`**
 
-* [owning-a-server](https://github.com/szym10on/owning-a-server)<br>
+* 🥇 [owning-a-server](https://github.com/szym10on/owning-a-server)<br>
   My main project that I was working on for more than 2 years.<br>
   It descibes how I built, configured, managed and secured my physical server.<br>
   I managed to reach more than 200.000 registered people.
 
-* [network-at-home](https://github.com/szym10on/network-at-home)<br>
+* 🥈 [network-at-home](https://github.com/szym10on/network-at-home)<br>
   Project that I had done in my house.<br>
   It describes how I planned, built and connected home network myself.<br>
   It inclueds ethernet cables distribution, making sockets and plugs, and planning router and hub places.<br>
 
-* [security-scripts](https://github.com/szym10on/security-scripts)<br>
+* 🥉 [security-scripts](https://github.com/szym10on/security-scripts)<br>
   Security scripts for a Minecraft servers.<br>
   All scripts described in a README file.<br>
   Everything in repository is written by me.<br>
