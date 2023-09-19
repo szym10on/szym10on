@@ -4,7 +4,9 @@
 
 **`Digital Enthusiast (Cybersecurity/IT Specialist)`**
 
-I am passionate about information security since 2019 and enjoy developing solutions that can positivly impact an organization and the people it serves. I am proud of my analytical mindset that allows me to think critically and analyze complex problems. I have highly developed problem-solving skills that over the years improved and are still improving. The most important aspect of my jurney is that I love learning that is the most important thing in the digital world. Personally I think that I am perfect for new challenges, learning new skills and adapt to new possibilities.
+I am an individual deeply passionate about cybersecurity, driven by a profound understanding of IT principles and a keen analytical mind. My enthusiasm for the field is reflected in the server I manage, boasting a community of over 200,000 players, where I prioritize their security and well-being.
+
+The intricacies of cybersecurity fascinate me, from unraveling complex vulnerabilities to architecting robust defenses. I relish every opportunity to employ my knowledge in safeguarding digital landscapes, devising strategies that fortify and protect against emerging threats. This love for cybersecurity is not just a profession but a calling—a pursuit of knowledge and skills that continually evolve alongside the ever-changing technological landscape.
 
 ![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
 
