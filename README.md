@@ -63,7 +63,7 @@ Date of Certification: June 2023
 
 **`My knowledge and skills that I developed over the years`**
 
-🧠 Some of my skills and software I use
+🧠 Some of the software I'm able to use
 
 * List of _some_ software applications I am able to use:<br>
 Splunk SIEM tool<br>
@@ -80,12 +80,14 @@ Linux Operating System<br>
 Ubuntu Server<br>
 Skript .sk Language
 
-* _Some_ of the things that I know about in security:<br>
-Cyber threat landscape (Staying up-to-date)<br>
-All security fundamentals (Systems, threats, vulnerabilities, etc.)<br>
-Risk Assessment (Conducting risk assessments)<br>
-Networking Protocols (Common network protocols)<br>
-Network Security (Firewalls, VPNs, monitoring, detection, etc.)<br>
-System hardening (Securing a system)<br>
+* _Some_ of the things that I know about:<br>
+All security fundamentals from systems and threats to vulnerabilities<br>
+Cyber threat landscape, staying up-to-date since 2019<br>
+Network Security such as firewalls, VPNs etc.<br>
+Log reading and analysing all kind of logs<br>
+Network Protocols<br>
+System hardening<br>
+NIST Frameworks<br>
+Risk Assessment<br>
 
 ![7](https://github.com/szym10on/szym10on/assets/123908381/fbed8620-1c3a-42d4-89e5-c1ec63e5620d)
