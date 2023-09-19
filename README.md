@@ -9,7 +9,7 @@ I am passionate about information security since 2019 and enjoy developing solut
 ![9](https://github.com/szym10on/szym10on/assets/123908381/fc69732c-bb1f-4cb2-88d2-e680065cf29d)
 
 ## 🌌 Projects
-s
+
 **`Things that I'm the most proud of`**
 
 * [owning-a-server](https://github.com/szym10on/owning-a-server)<br>
