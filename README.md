@@ -1,6 +1,6 @@
 ### 🚀 szym10on
 
-## 🌌 About me
+## 🌌 About mes
 
 **`(Cybersecurity/IT Specialist)`**
 
