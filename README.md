@@ -110,11 +110,11 @@ Date of Certification: June 2023
   - Cloud<br>
   - Virtualization<br>
 
-🧠 <b>Some</b> of the skills I own:
+🛠️ <b>Some</b> of the skills I own:
 
 * Security wise skills:<br>
 
-  - Great working in a team (Main manager of a 15-person team for over 2 years - more at [owning-a-server](https://github.com/szym10on/owning-a-server))<br>
+  - Great working in a team (Main manager of a 15-person team for over 2 years - more at 🏆 [owning-a-server](https://github.com/szym10on/owning-a-server))<br>
   - Strong communication<br>
   - Fast addapting to different situations<br>
   - Ethical behavior<br>
