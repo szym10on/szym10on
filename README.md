@@ -65,31 +65,37 @@ Date of Certification: June 2023
 
 **`My knowledge and skills that I developed over the years`**
 
-🧠 Some of the software I'm able to use
+🕹️ <b>Some</b> of the software I'm able to use:
 
-* List of _some_ software applications I am able to use:<br>
-Splunk SIEM tool<br>
-Wireshark packet analyzer<br>
-Chronicle Google's SIEM tool<br>
-Aircrack-ng network tester<br>
-OpenVAS vulnerability scanning and management tool<br>
-Adobe Photoshop graphic editing tool<br>
-MySQL database management tool
+* Security wise software:<br>
+`I'm able to learn new things really fast`<br>
+  - Splunk SIEM tool<br>
+  - Wireshark packet analyzer<br>
+  - Chronicle Google's SIEM tool<br>
+  - Aircrack-ng network tester<br>
+  - OpenVAS vulnerability scanning and management tool<br>
+
+* Other software I'm able to use:<br>
+  - All kinds of SSH/FTP software<br>
+  - All kinds of anti-viruse software<br>
+  - Some of the MySQL database management tool
+  - Adobe Photoshop or other graphic editing tool<br>
 
 * More of _some_ of my knowledge:<br>
-Windows Operating System<br>
-Linux Operating System<br>
-Ubuntu Server<br>
-Skript .sk Language
+  - Windows Operating System<br>
+  - Linux Operating System<br>
+  - Ubuntu Server<br>
 
-* _Some_ of the things that I know about:<br>
-Cyber threat landscape, staying up-to-date since 2019<br>
-All security fundamentals from systems and threats to vulnerabilities<br>
-Network Security such as firewalls, VPNs etc.<br>
-Log reading and analysing all kind of logs<br>
-Network Protocols and network overall<br>
-NIST Frameworks<br>
-Risk Assessment<br>
-System hardening<br>
+🧠 <b>Some</b> of the security things I know about:
+
+* Security wise things:<br>
+  - Cyber threat landscape, staying up-to-date since 2019<br>
+  - All security fundamentals from systems and threats to vulnerabilities<br>
+  - Network Security such as firewalls, VPNs etc.<br>
+  - Log reading and analysing all kind of logs<br>
+  - Network Protocols and network overall<br>
+  - System hardening<br>
+  - Risk Assessment<br>
+  - Frameworks<br>
 
 ![7](https://github.com/szym10on/szym10on/assets/123908381/fbed8620-1c3a-42d4-89e5-c1ec63e5620d)
