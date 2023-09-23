@@ -64,11 +64,11 @@ Date of Certification: June 2023
 ## 🌌 Knowledge and skills
 
 **`My knowledge and skills that I developed over the years`**
+`I'm able to learn new things really fast`
 
 🕹️ <b>Some</b> of the software I'm able to use:
 
 * Security wise software:<br>
-`I'm able to learn new things really fast`<br>
   - Splunk SIEM tool<br>
   - Wireshark packet analyzer<br>
   - Chronicle Google's SIEM tool<br>
