@@ -101,7 +101,7 @@ Date of Certification: June 2023
   - Risk Assessment<br>
   - Frameworks<br>
 
-  * Other IT things:<br>
+* Other IT things:<br>
 
   - Hardware<br>
   - Networking<br>
