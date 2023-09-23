@@ -89,7 +89,7 @@ Date of Certification: June 2023
   - Linux Operating System<br>
   - Ubuntu Server<br>
 
-🧠 <b>Some</b> of the security things I know about:
+🧠 <b>Some</b> of the things I know about:
 
 * Security wise things:<br>
 
@@ -97,9 +97,28 @@ Date of Certification: June 2023
   - Cyber threat landscape, staying up-to-date since 2019<br>
   - Network Security such as firewalls, VPNs etc.<br>
   - Log reading and analysing all kind of logs<br>
-  - Network Protocols and network overall<br>
   - System hardening<br>
   - Risk Assessment<br>
   - Frameworks<br>
+
+  * Other IT things:<br>
+
+  - Hardware<br>
+  - Networking<br>
+  - Administration of operating systems<br>
+  - Web technology<br>
+  - Cloud<br>
+  - Virtualization<br>
+
+🧠 <b>Some</b> of the skills I own:
+
+* Security wise skills:<br>
+
+  - Great working in a team (Owner and chief manager of a team of 15 staff member for 2+ years)<br>
+  - Strong communication<br>
+  - Fast addapting to different situations<br>
+  - Ethical behavior<br>
+  - Security focused mindset<br>
+  - Fast learning<br>
 
 ![7](https://github.com/szym10on/szym10on/assets/123908381/fbed8620-1c3a-42d4-89e5-c1ec63e5620d)
