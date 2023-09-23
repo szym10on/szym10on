@@ -77,7 +77,7 @@ Date of Certification: June 2023
 
 * Other software I'm able to use:<br>
   - All kinds of SSH/FTP software<br>
-  - All kinds of anti-viruse software<br>
+  - All kinds of anti-virus software<br>
   - Some of the MySQL database management tool
   - Adobe Photoshop or other graphic editing tool<br>
 
