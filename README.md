@@ -69,6 +69,7 @@ Date of Certification: June 2023
 🕹️ <b>Some</b> of the software I'm able to use:
 
 * Security wise software:<br>
+
   - Splunk SIEM tool<br>
   - Wireshark packet analyzer<br>
   - Chronicle Google's SIEM tool<br>
@@ -76,12 +77,14 @@ Date of Certification: June 2023
   - OpenVAS vulnerability scanning and management tool<br>
 
 * Other software I'm able to use:<br>
+
   - All kinds of SSH/FTP software<br>
   - All kinds of anti-virus software<br>
   - Some of the MySQL database management tool
   - Adobe Photoshop or other graphic editing tool<br>
 
 * More of _some_ of my knowledge:<br>
+
   - Windows Operating System<br>
   - Linux Operating System<br>
   - Ubuntu Server<br>
@@ -89,6 +92,7 @@ Date of Certification: June 2023
 🧠 <b>Some</b> of the security things I know about:
 
 * Security wise things:<br>
+
   - Cyber threat landscape, staying up-to-date since 2019<br>
   - All security fundamentals from systems and threats to vulnerabilities<br>
   - Network Security such as firewalls, VPNs etc.<br>
