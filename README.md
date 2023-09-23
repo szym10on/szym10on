@@ -93,8 +93,8 @@ Date of Certification: June 2023
 
 * Security wise things:<br>
 
-  - Cyber threat landscape, staying up-to-date since 2019<br>
   - All security fundamentals from systems and threats to vulnerabilities<br>
+  - Cyber threat landscape, staying up-to-date since 2019<br>
   - Network Security such as firewalls, VPNs etc.<br>
   - Log reading and analysing all kind of logs<br>
   - Network Protocols and network overall<br>
