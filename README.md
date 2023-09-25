@@ -70,11 +70,10 @@ Date of Certification: June 2023
 
 * Security wise software:<br>
 
-  - Splunk SIEM tool<br>
-  - Wireshark packet analyzer<br>
-  - Chronicle Google's SIEM tool<br>
-  - Aircrack-ng network tester<br>
-  - OpenVAS vulnerability scanning and management tool<br>
+  - Splunk or any other SIEM tool<br>
+  - Wireshark or any other packet analyzer<br>
+  - Aircrack-ng or any other network tester<br>
+  - OpenVAS or anty other vulnerability scanning and management tool<br>
 
 * Other software I'm able to use:<br>
 
