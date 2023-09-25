@@ -121,4 +121,4 @@ Date of Certification: June 2023
   - Security focused mindset<br>
   - Fast learning<br>
 
-![7](https://github.com/szym10on/szym10on/assets/123908381/fbed8620-1c3a-42d4-89e5-c1ec63e5620d)
+![s](https://github.com/szym10on/szym10on/assets/123908381/ec88f852-c921-4423-ae6b-0f1c22ecbd17)
