@@ -70,10 +70,10 @@ Date of Certification: June 2023
 
 * Security wise software:<br>
 
-  - Splunk or any other SIEM tool<br>
-  - Wireshark or any other packet analyzer<br>
-  - Aircrack-ng or any other network tester<br>
-  - OpenVAS or anty other vulnerability scanning and management tool<br>
+  - Splunk or any other similar SIEM tool<br>
+  - Wireshark or any other similar packet analyzer<br>
+  - Aircrack-ng or any other similar network tester<br>
+  - OpenVAS or anty other similar vulnerability scanning and management tool<br>
 
 * Other software I'm able to use:<br>
 
@@ -96,9 +96,12 @@ Date of Certification: June 2023
   - Cyber threat landscape, staying up-to-date since 2019<br>
   - Network Security such as firewalls, VPNs etc.<br>
   - Log reading and analysing all kind of logs<br>
+  - Packet analyzer, network testers works<br>
   - System hardening<br>
   - Risk Assessment<br>
   - Frameworks<br>
+  - SIEM tools<br>
+  - Protocols<br>
 
 * Other IT things:<br>
 
