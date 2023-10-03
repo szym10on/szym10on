@@ -47,11 +47,13 @@ Specialization: Cybersecurity Management
 
 📜 Certificates
 
-* EE.08 [Similar to CompTIA A+] (Installation and exploitation of computer systems, peripherals and networks)<br>
+* EE.08 [Similar to CompTIA A+]<br>
+(Installation and exploitation of computer systems, peripherals and networks)<br>
 Issuing Institution: OKE Warsaw<br>
 Date of Certification: June 2022
 
-* INF.02 [Similar to CompTIA Network+] (Administration and exploitation of computer systems, peripheral devices and local computer networks)<br>
+* INF.02 [Similar to CompTIA Network+]<br>
+(Administration and exploitation of computer systems, peripheral devices and local computer networks)<br>
 Issuing Institution: OKE Warsaw<br>
 Date of Certification: January 2023
 
