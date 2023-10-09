@@ -1,7 +1,7 @@
 ### 🚀 szym10on
 
 ## 🌌 About me
-s
+
 **`(Cybersecurity/IT Specialist)`**
 
 I am an individual deeply passionate about cybersecurity, driven by a profound understanding of IT principles and a keen analytical mind. My enthusiasm for the field is reflected in the server I manage, boasting a community of over 200,000 players, where I prioritize their security and well-being.
