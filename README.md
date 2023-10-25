@@ -16,7 +16,7 @@ The intricacies of cybersecurity fascinate me, from unraveling complex vulnerabi
 
 * 🏆 [owning-a-server](https://github.com/szym10on/owning-a-server)<br>
   My main project that I was working on for more than 2 years.<br>
-  It descibes how I built, configured, managed and secured my physical server.<br>
+  It describes how I built, configured, managed and secured my physical server.<br>
   I managed to reach <b>more than 200.000 registered</b> people.
 
 * [network-at-home](https://github.com/szym10on/network-at-home)<br>
